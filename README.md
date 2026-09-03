@@ -36,7 +36,7 @@ Tahapan Cleaning Setiap Dataset:
    Pembersihan dataset dilakukan dengan beberapa step diantaranya:
    - Pengecekan data duplikat
    - Pengecekan missing value
-   - Melakukan pengisian missing value pada kolom "review_comment_title" menjadi "No Comment Title"
+   - Melakukan pengisian missing value pada kolom "review_comment_title" menjadi "No Comment Title" 
    - Melakukan pengisian missing value pada kolom "review_comment_message" menjadi "No Comment Message"
    - Melakukan standarisasi tipe data dan format pada kolom "review_creation_date", "review_answer_timestamp"   
 
